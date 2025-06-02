@@ -1,0 +1,17 @@
+pandas
+openpyxl
+scikit-learn
+langchain
+langchain-community
+langchain-google-genai
+langchain-chroma
+python-dotenv
+streamlit
+langchainhub
+sentence-transformers
+langchain-core
+langchain_experimental
+rapidocr-onnxruntime
+langchain_openai
+seaborn
+matplotlib
