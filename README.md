@@ -66,8 +66,8 @@ Bu turist rehber chatbot projesi aşağıdaki adımlar doğrultusunda gerçekle�
 6. **İki Ayrı LLM ile Uygulama Geliştirme**  
    Proje, iki farklı LLM (Large Language Model) altyapısı ile ayrı ayrı geliştirilmiştir:
 
-   - 🔹 **Google tarafından geliştirilen `gemini-2.0-flash` modeli (Gemini API)**  
-   - 🔹 **OpenAI tarafından geliştirilen `gpt-4o` modeli (OpenAI API)**
+   -  **Google tarafından geliştirilen `gemini-2.0-flash` modeli (Gemini API)**  
+   -  **OpenAI tarafından geliştirilen `gpt-4o` modeli (OpenAI API)**
 
    Her model için proje oluşturulmuş ve aynı veri setiyle test edilmiştir.
 
@@ -81,7 +81,7 @@ Bu turist rehber chatbot projesi aşağıdaki adımlar doğrultusunda gerçekle�
 
 ---
 
-## 🧭 Chatbot
+## 🧭 Chatbot Akışı
 
 Chatbot, kullanıcıların farklı bilgi ihtiyaçlarını karşılamak üzere aşağıdaki **11 intent başlığı** ile yapılandırılmıştır:
 
