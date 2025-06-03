@@ -52,11 +52,6 @@ Bu turist rehber chatbot projesi aşağıdaki adımlar doğrultusunda gerçekle�
 4. **Veri Setinin Eğitim ve Test Olarak Bölünmesi**  
    - Veri seti, **eğitim** ve **test** verisi olarak ikiye ayrılmıştır. Her iki projede de aynı test verisinin elde edilebilmesi için bölme işlemi sırasında sabit bir kök değer (seed) kullanılmıştır. 
    - Eğitim verisi kullanılarak modeller eğitilmiş ve test verisiyle performansları değerlendirilmiştir. 
-   - Değerlendirme metrikleri:  
-     - **Accuracy (Doğruluk)**  
-     - **Recall (Duyarlılık)**  
-     - **Precision (Hassasiyet)**  
-     - **F1 Score**
 
 5. **RAG (Retrieval-Augmented Generation) Entegrasyonu**  
    - Chatbotun daha bilgi temelli yanıtlar verebilmesi için **RAG (Retrieval-Augmented Generation)** mimarisi kullanılmıştır.
