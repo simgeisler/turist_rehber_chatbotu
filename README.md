@@ -137,7 +137,7 @@ llm = ChatOpenAI(
     temperature=0.3,
     max_tokens=500
 )
-response = llm.invoke("LangChain nedir?")
+response = llm.invoke("...")
 print(response)
 ```
 
